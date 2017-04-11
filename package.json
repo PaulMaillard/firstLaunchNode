@@ -1,0 +1,25 @@
+{
+  "name": "firstlaunchnode",
+  "version": "0.1.1",
+  "description": "initiation to node.js",
+  "main": "serveur.js",
+  "scripts": {
+    "test": "node serveur.js"
+  },
+  "dependencies":{
+    "express": "4.13.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PaulMaillard/firstLaunchNode"
+  },
+  "keywords": [
+    "initiation"
+  ],
+  "author": "paul-maillard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PaulMaillard/firstLaunchNode/issues"
+  },
+  "homepage": "https://github.com/PaulMaillard/firstLaunchNode#readme"
+}
